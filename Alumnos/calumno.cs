@@ -53,10 +53,7 @@ namespace Alumnos
             this.Cuotaaldia = true;
 
         }
-
-
-
-        //Polimorfismo / Metodos
+        //Polimorfismo - Metodos
         public calumno(string nombre, string apellido, string documento, DateTime fechanacimiento)
         {
 
