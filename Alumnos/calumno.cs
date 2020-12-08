@@ -54,6 +54,8 @@ namespace Alumnos
 
         }
 
+
+
         //Polimorfismo / Metodos
         public calumno(string nombre, string apellido, string documento, DateTime fechanacimiento)
         {
