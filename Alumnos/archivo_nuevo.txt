@@ -1,0 +1,6 @@
+Archivo creado a través de git
+Se ingresa información para luego subir a Git Hub
+
+
+
+
